@@ -1,1 +1,2 @@
-pass
+def function():
+    return None
